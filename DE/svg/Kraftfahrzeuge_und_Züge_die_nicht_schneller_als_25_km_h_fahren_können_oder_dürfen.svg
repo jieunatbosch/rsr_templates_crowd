@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="500"
+   height="400"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     id="layer1">
+    <g
+       transform="translate(10.1636,8.029761)"
+       id="g4548">
+      <path
+         d="M 295.23238,14.905561 C 279.95549,17.514001 272.29797,24.966621 266.23238,33.436811 L 248.45113,141.12431 L 37.388633,141.12431 C 14.754659,144.54201 19.232383,154.82662 19.232383,163.09306 L 36.388633,268.15556 L 51.513633,268.15556 C 63.437389,228.50231 144.25279,229.9376 156.82613,268.15556 L 247.51363,268.15556 C 243.13571,198.86951 342.7846,101.24363 443.48238,196.40556 L 443.48238,139.49931 L 443.73238,139.49931 L 443.73238,14.905561 L 295.23238,14.905561 z M 289.23238,42.499311 L 399.60738,42.499311 L 399.91988,139.87431 L 270.07613,140.93681 L 286.01363,47.999311 C 286.56907,46.102541 286.84967,44.193071 289.23238,42.499311 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path1882" />
+      <path
+         d="M 665.82779 917.76086 A 77.171417 77.171417 0 1 1  511.48495,917.76086 A 77.171417 77.171417 0 1 1  665.82779 917.76086 z"
+         transform="translate(-230.0275,-650.8975)"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1887" />
+      <path
+         d="M 665.82779 917.76086 A 77.171417 77.171417 0 1 1  511.48495,917.76086 A 77.171417 77.171417 0 1 1  665.82779 917.76086 z"
+         transform="matrix(0.591604,0,0,0.591604,-244.0191,-234.3611)"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2776" />
+    </g>
+  </g>
+</svg>

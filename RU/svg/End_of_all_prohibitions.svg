@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600"
+height="600" stroke="#000" fill="#FFF">
+<path stroke-width="2" d="m299,2a298,298 0 1,0 2,0z"/>
+<path stroke-width="10" d="m299,15a285,285 0 1,0 2,0z"/>
+<path stroke-width="568" stroke-dasharray="8,13.4" d="m267,267 67,67"/>
+</svg>

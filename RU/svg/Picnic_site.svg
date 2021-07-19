@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="1050"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="7.10.svg">
+  <title
+     id="title3002">7.11 Место отдыха</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="500.22899"
+     inkscape:cy="521.05975"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>7.11 Место отдыха</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.362183)">
+    <rect
+       y="2.3621831"
+       x="0"
+       height="1050"
+       width="700"
+       id="rect4575"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 45.000005,22.362172 c -13.85,0 -25,11.15 -25,25 l 0,960.000028 c 0,13.85 11.15,25 25,25 l 610.000015,0 c 13.85,0 25,-11.15 25,-25 l 0,-960.000028 c 0,-13.85 -11.15,-25 -25,-25 l -610.000015,0 z M 110.625,177.36216 l 478.75002,0 c 24.93,0 45,20.07 45,45 l 0,478.74999 c 0,24.93 -20.07,45 -45,45 l -478.75002,0 c -24.929995,0 -44.999995,-20.07 -44.999995,-45 l 0,-478.74999 c 0,-24.93 20.07,-45 44.999995,-45 z"
+       id="rect4571" />
+    <path
+       id="path4614"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 393.75,680.48715 0,-54.6875 c -34.71891,19.4567 -70.80134,23.2326 -108.28125,10.9375 45.12594,-32.8674 73.89506,-76.6394 86.40625,-131.25 -23.86606,11.9365 -49.01426,19.257 -75.46875,21.875 47.40094,-39.9821 67.80298,-90.8822 60.15625,-153.125 -11.41219,6.707 -23.82308,11.4165 -37.1875,14.2188 21.53036,-41.4594 28.77941,-85.5155 20.78125,-132.34376 31.19747,37.61067 67.65106,68.24206 109.375,91.87496 L 411.25,364.39345 c 25.30259,49.6876 63.31106,85.6824 113.75,108.2812 -22.67945,16.3199 -47.98675,24.0779 -76.01563,22.9688 37.78819,45.1115 84.63941,73.9094 140.54685,86.4062 -38.5697,28.3011 -81.92283,42.2522 -130.15622,41.5625 l 0,56.875 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       id="path4566"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 142.1875,614.86215 6.5625,0 -17.5,65.625 17.5,0 17.5,-65.625 39.375,0 17.5,65.625 17.5,0 -17.5,-65.625 6.5625,0 0,-21.875 -87.5,0 z m 87.5,-21.875 c 6.04062,0 10.93749,4.8969 10.93749,10.9375 0,6.0407 -4.89687,10.9375 -10.93749,10.9375 l 0,-10.9375 z m -87.5,21.875 c -6.04062,0 -10.93749,-4.8968 -10.93749,-10.9375 0,-6.0406 4.89687,-10.9375 10.93749,-10.9375 0,0 0,0 0,0"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="44"
+       rx="44"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4599"
+       width="698"
+       height="1048"
+       x="1"
+       y="3.3621831" />
+  </g>
+</svg>

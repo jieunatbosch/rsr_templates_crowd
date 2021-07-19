@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+   ***************************************************************************
+   Bundesanstalt fuer Strassenwesen
+   RWBA-/RWB-Symbol
+   Bezeichnung:
+   "Erste-Hilfe"-Station
+   Ausdehnung in cm:
+         X_min     X_max     Y_min     Y_max
+         0.00000  15.00000   0.00000  15.00000
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="RWB-RWBA_Erste_Hilfe.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1172"
+     inkscape:window-height="918"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="75"
+     inkscape:cy="75"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <!--
+   ***************************************************************************
+-->
+  <path
+     fill="white"
+     fill-rule="evenodd"
+     stroke="black"
+     stroke-width="0.25"
+     d="M0 150L0 0L150 0L150 150L0 150Z"
+     id="path4" />
+  <!--
+      SYMBOL ROTES KREUZ
+-->
+  <path
+     fill="#CC0000"
+     fill-rule="evenodd"
+     stroke="none"
+     d="M55 135L55 95L15 95L15 55L55 55L55 15L95 15L95 55L135 55L135 95L95 95L95 135L55 135Z"
+     id="path6"
+     style="fill:#c1121c;fill-opacity:1" />
+</svg>

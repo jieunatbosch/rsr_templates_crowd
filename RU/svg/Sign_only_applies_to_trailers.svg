@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.4.5.svg">
+  <title
+     id="title3006">8.4.2 Вид транспортного средства</title>
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5877">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56.525,325.175 192.75,0 0,-102.15 -192.75,0 0,102.15 z"
+         id="path5879" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5885">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56.52499,223.02499 192.75,0 0,102.15001 -192.75,0 0,-102.15001 z"
+         id="path5887" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5893">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56.525,325.175 192.75,0 0,-102.15 -192.75,0 0,102.15 z"
+         id="path5895" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5903">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -0.293,-2.183 3.08701,0 0,8.24201 -3.08701,0 0,-8.24201 z"
+         id="path5905" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask5909">
+      <image
+         width="1"
+         height="1"
+         xlink:href="data:image/png;base64,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"
+         id="image5911" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="270.39249"
+     inkscape:cy="176.80397"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.4.2 Вид транспортного средства</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect8328"
+       width="600"
+       height="300"
+       x="0"
+       y="752.36212"
+       rx="45"
+       ry="45" />
+    <rect
+       ry="35"
+       rx="35"
+       y="762.36218"
+       x="10"
+       height="280"
+       width="580"
+       id="rect8330"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+    <path
+       id="path9135"
+       d="m 225,827.36248 0,116.24969 -131.25,0 0,15.00031 191.71387,0 c 2.72585,-24.60331 23.58097,-43.75 48.91113,-43.75 25.33016,0 46.18527,19.14669 48.91113,43.75 l 104.21387,0 0,-131.25 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccscccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 334.36523,925.65318 c -21.22844,0 -38.4375,17.20906 -38.4375,38.4375 0,21.22845 17.20906,38.43742 38.4375,38.43742 21.22844,0 38.4375,-17.20897 38.4375,-38.43742 0,-21.22844 -17.20906,-38.4375 -38.4375,-38.4375 z m 0,21.09375 c 9.57869,0 17.34375,7.76506 17.34375,17.34375 0,9.5787 -7.76506,17.34375 -17.34375,17.34375 -9.57869,0 -17.34375,-7.76505 -17.34375,-17.34375 0,-9.57869 7.76506,-17.34375 17.34375,-17.34375 z"
+       id="path9139" />
+  </g>
+</svg>
